@@ -1,0 +1,2 @@
+# smaristeinar
+javascriptverkefni3
